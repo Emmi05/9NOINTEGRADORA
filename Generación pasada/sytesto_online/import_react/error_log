@@ -1,0 +1,108 @@
+[05-Jul-2020 22:25:11 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:13 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:13 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:19 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:24 America/Mexico_City] PHP Notice:  Undefined index: fileContacts in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 4
+[05-Jul-2020 22:25:24 America/Mexico_City] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 5
+[05-Jul-2020 22:25:24 America/Mexico_City] PHP Notice:  Undefined variable: contactList in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 16
+[05-Jul-2020 22:25:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 16
+[05-Jul-2020 22:25:38 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:41 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:25:41 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:26:29 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:26:29 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:26:29 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:28:03 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:28:03 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:28:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 19 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:39
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(39): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 39
+[05-Jul-2020 22:28:54 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:28:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:38
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(38): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:28:57 America/Mexico_City] PHP Notice:  Undefined index: fileContacts in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 4
+[05-Jul-2020 22:28:57 America/Mexico_City] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 5
+[05-Jul-2020 22:28:57 America/Mexico_City] PHP Notice:  Undefined variable: contactList in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 16
+[05-Jul-2020 22:28:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 16
+[05-Jul-2020 22:34:22 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:38
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(38): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:37:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:38
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(38): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 38
+[05-Jul-2020 22:37:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:50:40 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:50:45 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:50:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:50:51 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:52:16 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 22:52:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
+[05-Jul-2020 23:09:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near './sytesto_online/ejercicios/1590204686.jpeg)' at line 18 in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php:37
+Stack trace:
+#0 /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php(37): PDO->query('INSERT INTO rea...')
+#1 {main}
+  thrown in /home/utacapul/siacc.utacapulco.edu.mx/sytesto_online/import_react/import_react.php on line 37
